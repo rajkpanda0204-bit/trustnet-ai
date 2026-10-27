@@ -1,0 +1,31 @@
+TRUSTNET AI — DATASET INSPECTION
+=============================================
+File: fake reviews dataset.csv
+Rows: 40,432
+Columns: 4
+
+COLUMN NAMES
+category
+rating
+label
+text_
+
+MISSING VALUES
+category    0
+rating      0
+label       0
+text_       0
+
+DATA TYPES
+category     object
+rating      float64
+label        object
+text_        object
+
+FIRST FIVE ROWS
+          category  rating label                                                                                 text_
+Home_and_Kitchen_5     5.0    CG           Love this!  Well made, sturdy, and very comfortable.  I love it!Very pretty
+Home_and_Kitchen_5     5.0    CG      love it, a great upgrade from the original.  I've had mine for a couple of years
+Home_and_Kitchen_5     5.0    CG                   This pillow saved my back. I love the look and feel of this pillow.
+Home_and_Kitchen_5     1.0    CG     Missing information on how to use it, but it is a great product for the price!  I
+Home_and_Kitchen_5     5.0    CG Very nice set. Good quality. We have had the set for two months now and have not been

@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+venv/
+.venv/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+
+# Logs and temporary files
+*.log
+.pytest_cache/
+
+# Local data
+data/raw/
+data/processed/
+
+# Backups
+backups/

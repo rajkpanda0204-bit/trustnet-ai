@@ -1,0 +1,43 @@
+TRUSTNET AI — DATASET ANALYSIS
+
+LABEL DISTRIBUTION
+label
+CG    20216
+OR    20216
+
+RATING DISTRIBUTION
+rating
+1.0     2155
+2.0     1967
+3.0     3786
+4.0     7965
+5.0    24559
+
+LABEL VS RATING
+rating   1.0   2.0   3.0   4.0    5.0
+label                                
+CG      1063   962  1952  3920  12319
+OR      1092  1005  1834  4045  12240
+
+CATEGORY DISTRIBUTION
+category
+Kindle_Store_5                  4730
+Books_5                         4370
+Pet_Supplies_5                  4254
+Home_and_Kitchen_5              4056
+Electronics_5                   3988
+Sports_and_Outdoors_5           3946
+Tools_and_Home_Improvement_5    3858
+Clothing_Shoes_and_Jewelry_5    3848
+Toys_and_Games_5                3794
+Movies_and_TV_5                 3588
+
+REVIEW LENGTH STATISTICS
+count    40432.000000
+mean       351.271963
+std        369.813570
+min         24.000000
+25%        107.000000
+50%        198.000000
+75%        439.000000
+max       2827.000000

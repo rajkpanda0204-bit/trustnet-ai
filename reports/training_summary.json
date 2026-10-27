@@ -1,0 +1,44 @@
+{
+  "best_model": "Linear SVM \u2014 Word + Character TF-IDF",
+  "dataset_rows": 40405,
+  "training_rows": 25859,
+  "validation_rows": 6465,
+  "test_rows": 8081,
+  "label_classes": [
+    "CG",
+    "OR"
+  ],
+  "selection_metric": "validation_macro_f1",
+  "validation_results": [
+    {
+      "model": "Logistic Regression \u2014 Word TF-IDF",
+      "accuracy": 0.934261407579273,
+      "macro_precision": 0.9351497990850939,
+      "macro_recall": 0.9342440221838348,
+      "macro_f1": 0.9342259997163289
+    },
+    {
+      "model": "Linear SVM \u2014 Word TF-IDF",
+      "accuracy": 0.951430781129157,
+      "macro_precision": 0.9515817303623529,
+      "macro_recall": 0.9514238136481308,
+      "macro_f1": 0.9514261685227043
+    },
+    {
+      "model": "Linear SVM \u2014 Word + Character TF-IDF",
+      "accuracy": 0.9534416086620263,
+      "macro_precision": 0.953486306479348,
+      "macro_recall": 0.9534378723424617,
+      "macro_f1": 0.9534401649539828
+    }
+  ],
+  "final_test_metrics": {
+    "accuracy": 0.9521098873901744,
+    "macro_precision": 0.9521189249053308,
+    "macro_recall": 0.9521085674222514,
+    "macro_f1": 0.9521095324425899
+  },
+  "test_accuracy": 0.9521098873901744,
+  "test_macro_f1": 0.9521095324425899,
+  "note": "Candidates were selected using validation macro F1. The selected model was refitted on training and validation data before final evaluation on the held-out test set. Exact normalized duplicate texts were removed before splitting. Near-duplicate texts may remain across splits. CG and OR retain their original dataset meanings; verify dataset documentation before mapping them to fake or genuine. Results may not generalize to other review sources."
+}

@@ -1,0 +1,298 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRUSTNET AI | Intelligence Centre</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+</head>
+
+<body>
+    <div class="app-shell">
+
+        <aside class="sidebar">
+            <div class="brand">
+                <div class="brand-icon">T</div>
+                <div>
+                    <h1>TRUSTNET<span>AI</span></h1>
+                    <p>REVIEW INTELLIGENCE</p>
+                </div>
+            </div>
+
+            <div class="system-status">
+                <span class="status-dot"></span>
+                <span>CLASSIFICATION SYSTEM</span>
+                <strong>ONLINE</strong>
+            </div>
+
+            <p class="nav-heading">WORKSPACE</p>
+
+            <a href="#overview" class="nav-item active">
+                <span>◈</span> Overview
+            </a>
+            <a href="#scanner" class="nav-item">
+                <span>⌕</span> Review Scanner
+            </a>
+            <a href="#performance" class="nav-item">
+                <span>▥</span> Model Performance
+            </a>
+
+            <div class="sidebar-bottom">
+                <div class="security-card">
+                    <span class="security-icon">⬡</span>
+                    <h3>Trust Intelligence</h3>
+                    <p>Machine-learning predictions for review analysis.</p>
+                    <span class="security-tag">LINEAR SVM</span>
+                </div>
+
+                <p class="sidebar-footer">TRUSTNET AI · LOCAL INSTANCE</p>
+            </div>
+        </aside>
+
+        <main class="main-content">
+
+            <header class="topbar">
+                <div>
+                    <p class="eyebrow">INTELLIGENCE / OVERVIEW</p>
+                    <h2>Trust Intelligence Centre</h2>
+                
+                </div>
+
+                <div class="topbar-right">
+                    <p>BY RAJ & AKASH</p>
+                    <span class="live-indicator"></span>
+                    <span>SYSTEM OPERATIONAL</span>
+                    <div class="avatar">TN</div>
+                 
+                    
+                
+                </div>
+            </header>
+
+            <section id="overview" class="hero">
+                <div class="hero-copy">
+                    <span class="section-label">AI-POWERED REVIEW ANALYSIS</span>
+                    <h2>Trust what you see.<br><span>Verify what you read.</span></h2>
+                    <p>
+                        Analyse review text with a machine-learning model,
+                        inspect its predictions, and explore model performance.
+                    </p>
+                    <a href="#scanner" class="primary-button">
+                        Launch Review Scanner <span>↗</span>
+                    </a>
+                </div>
+
+                <div class="hero-visual">
+                    <div class="orbit orbit-one"></div>
+                    <div class="orbit orbit-two"></div>
+                    <div class="core">
+                        <span>TN</span>
+                        <small>AI CORE</small>
+                    </div>
+                    <div class="orbit-label label-one">TEXT ANALYSIS</div>
+                    <div class="orbit-label label-two">SVM ENGINE</div>
+                    <div class="orbit-label label-three">LIVE INFERENCE</div>
+                </div>
+            </section>
+
+            <section class="metrics-grid">
+                <article class="metric-card">
+                    <div class="metric-top">
+                        <span>TEST ACCURACY</span>
+                        <span class="metric-symbol">◉</span>
+                    </div>
+                    <h3 id="accuracy">95.17%</h3>
+                    <p>Linear SVM · Held-out test set</p>
+                    <div class="metric-line"><span style="width:95.17%"></span></div>
+                </article>
+
+                <article class="metric-card">
+                    <div class="metric-top">
+                        <span>TEST REVIEWS</span>
+                        <span class="metric-symbol">▤</span>
+                    </div>
+                    <h3 id="test-count">{{ "{:,}".format(summary.get("testing_rows") or 8081) }}</h3>
+                    <p>Used for initial evaluation</p>
+                    <div class="metric-note">20% evaluation split</div>
+                </article>
+
+                <article class="metric-card">
+                    <div class="metric-top">
+                        <span>TRAINING REVIEWS</span>
+                        <span class="metric-symbol">⌘</span>
+                    </div>
+                    <h3 id="train-count">{{ "{:,}".format(summary.get("training_rows") or 32324) }}</h3>
+                    <p>Used to fit the model</p>
+                    <div class="metric-note">TF-IDF + Linear SVM</div>
+                </article>
+
+                <article class="metric-card">
+                    <div class="metric-top">
+                        <span>MODEL STATUS</span>
+                        <span class="metric-symbol">⬡</span>
+                    </div>
+                    <h3 class="status-text">OPERATIONAL</h3>
+                    <p>Local inference engine</p>
+                    <div class="metric-note"><span class="status-dot"></span> Model loaded</div>
+                </article>
+            </section>
+
+            <section id="scanner" class="scanner-section">
+                <div class="section-heading">
+                    <div>
+                        <p class="eyebrow">MODULE 01 / TEXT INTELLIGENCE</p>
+                        <h2>Review Scanner<span class="heading-dot">.</span></h2>
+                        <p>Submit a review to inspect the model's prediction.</p>
+                    </div>
+                    <div class="module-id">SCANNER / 001</div>
+                </div>
+
+                <div class="scanner-layout">
+                    <div class="scanner-panel">
+                        <div class="panel-header">
+                            <div>
+                                <span class="panel-kicker">INPUT TERMINAL</span>
+                                <h3>Review payload</h3>
+                            </div>
+                            <span class="input-badge">TEXT INPUT</span>
+                        </div>
+
+                        <label for="reviewText">REVIEW CONTENT</label>
+
+                        <textarea id="reviewText"
+                            maxlength="10000"
+                            placeholder="Paste a product review here...&#10;&#10;The model will analyse its text and predict one of the dataset's labels."></textarea>
+
+                        <div class="input-footer">
+                            <span id="charCount">0 / 10,000 characters</span>
+                            <button id="clearButton" class="text-button">CLEAR INPUT</button>
+                        </div>
+
+                        <button id="scanButton" class="scan-button">
+                            <span>◈</span> ANALYSE REVIEW <span>↗</span>
+                        </button>
+
+                        <p class="privacy-note">
+                            Your text is processed by the local application.
+                        </p>
+                    </div>
+
+                    <div class="result-panel">
+                        <div class="panel-header">
+                            <div>
+                                <span class="panel-kicker">MODEL OUTPUT</span>
+                                <h3>Analysis result</h3>
+                            </div>
+                            <span id="resultStatus" class="result-status">AWAITING INPUT</span>
+                        </div>
+
+                        <div id="emptyState" class="empty-state">
+                            <div class="scan-icon">⌕</div>
+                            <h3>Awaiting review data</h3>
+                            <p>Submit a review to generate a model prediction.</p>
+                            <div class="empty-lines">
+                                <span></span><span></span><span></span>
+                            </div>
+                        </div>
+
+                        <div id="resultContent" class="result-content hidden">
+                            <p class="result-label">PREDICTED DATASET LABEL</p>
+                            <h2 id="predictionLabel">—</h2>
+
+                            <div class="score-box">
+                                <div>
+                                    <span>DECISION SCORE</span>
+                                    <strong id="decisionScore">—</strong>
+                                </div>
+                                <p>
+                                    A model score, not a probability or confidence percentage.
+                                </p>
+                            </div>
+
+                            <div class="result-details">
+                                <div>
+                                    <span>MODEL</span>
+                                    <strong id="modelName">Linear SVM</strong>
+                                </div>
+                                <div>
+                                    <span>REVIEW LENGTH</span>
+                                    <strong id="reviewLength">—</strong>
+                                </div>
+                            </div>
+
+                            <div class="result-warning">
+                                <span>ⓘ</span>
+                                <p id="interpretation"></p>
+                            </div>
+                        </div>
+
+                        <div id="errorMessage" class="error-message hidden"></div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="performance" class="performance-section">
+                <div class="section-heading">
+                    <div>
+                        <p class="eyebrow">MODULE 02 / MODEL EVALUATION</p>
+                        <h2>Performance Analytics<span class="heading-dot">.</span></h2>
+                        <p>Metrics measured on the held-out test dataset.</p>
+                    </div>
+                    <div class="module-id">EVALUATION / 002</div>
+                </div>
+
+                <div class="performance-grid">
+                    <div class="chart-panel">
+                        <div class="panel-header">
+                            <div>
+                                <span class="panel-kicker">MODEL COMPARISON</span>
+                                <h3>Macro F1-score</h3>
+                            </div>
+                        </div>
+                        <div id="modelChart" class="chart"></div>
+                    </div>
+
+                    <div class="chart-panel">
+                        <div class="panel-header">
+                            <div>
+                                <span class="panel-kicker">EXPERIMENT SUMMARY</span>
+                                <h3>Benchmark results</h3>
+                            </div>
+                        </div>
+
+                        <div class="benchmark-list">
+                            <div class="benchmark-row">
+                                <div><span class="benchmark-dot cyan"></span> Linear SVM</div>
+                                <strong>95.17%</strong>
+                            </div>
+                            <div class="benchmark-bar"><span style="width:95.17%"></span></div>
+
+                            <div class="benchmark-row">
+                                <div><span class="benchmark-dot purple"></span> Logistic Regression</div>
+                                <strong>93.64%</strong>
+                            </div>
+                            <div class="benchmark-bar purple-bar"><span style="width:93.64%"></span></div>
+
+                            <p class="benchmark-note">
+                                Initial results from the same held-out split.
+                                Generalisation to other review sources has not yet been established.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <footer class="footer">
+                <div class="footer-brand">TRUSTNET<span>AI</span></div>
+                <p>Detection of Fake Reviews and Ratings for Trustworthy Recommender Systems</p>
+                <span>ACADEMIC ML PROTOTYPE</span>
+            </footer>
+        </main>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

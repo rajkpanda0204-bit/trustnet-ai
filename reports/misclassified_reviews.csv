@@ -1,0 +1,561 @@
+category,rating,actual_label,predicted_label,error_type,text_
+Toys_and_Games_5,5.0,OR,CG,Actual OR -> Predicted CG,"Perfect styrene glue:  melts the plastic, creating a weld of the material. Just what I needed for my model project."
+Electronics_5,5.0,CG,OR,Actual CG -> Predicted OR,"Works just as expected!
+
+Adds some nice bass and the controls are pretty easy to use."
+Tools_and_Home_Improvement_5,5.0,CG,OR,Actual CG -> Predicted OR,High-end eye guard for use on an electric bill light. The GFCI is a pretty good quality light.
+Home_and_Kitchen_5,5.0,OR,CG,Actual OR -> Predicted CG,Got one of these for each of the kids and for my husband and I.  We all love them.
+Clothing_Shoes_and_Jewelry_5,5.0,OR,CG,Actual OR -> Predicted CG,ordered my regular size and they fit fine.  Great look and very comfortable.
+Toys_and_Games_5,5.0,CG,OR,Actual CG -> Predicted OR,"Super cute, my niece has been playing with it for awhile now.  My 2 year old has"
+Home_and_Kitchen_5,5.0,OR,CG,Actual OR -> Predicted CG,I'm very pleased with the quality and look of this set and the excellent service!
+Toys_and_Games_5,5.0,OR,CG,Actual OR -> Predicted CG,"Buy this with the book
+Jenny and the Cat Club for a little reader! It was a hit!"
+Pet_Supplies_5,5.0,CG,OR,Actual CG -> Predicted OR,Mo oldest dog that's 15 years old and the only one I know who's not a bully.
+Movies_and_TV_5,4.0,CG,OR,Actual CG -> Predicted OR,"I grew up watching anime, and I thought it was pretty good. I thought it was a cute anime. The anime itself was good, the animation was good, and the story was good. It was good in a way. I liked the story."
+Pet_Supplies_5,5.0,OR,CG,Actual OR -> Predicted CG,My dog would begin for these. The tiny ones are the best for my small dogs.
+Electronics_5,5.0,CG,OR,Actual CG -> Predicted OR,"As in my previous review, I did not feel comfortable putting it on my iPad mini.  It is so small that it"
+Kindle_Store_5,2.0,CG,OR,Actual CG -> Predicted OR,"Got one third into it and it's free!
+
+Thanks again for a wonderful read!Great story. Great characters. I liked how the"
+Books_5,5.0,OR,CG,Actual OR -> Predicted CG,This book is great! Can't wait for the next. It's full of action and adventure. Hope u like it.
+Kindle_Store_5,5.0,CG,OR,Actual CG -> Predicted OR,I read all six in one book and the first three of them were my favorite. I just wanted to read the whole series. The characters and storyline were very well written.
+Books_5,4.0,OR,CG,Actual OR -> Predicted CG,Never ever thought I'd be interested in a period piece that had a focus on history and science!! But she pulled me in and i enjoyed the ride.
+Clothing_Shoes_and_Jewelry_5,1.0,CG,OR,Actual CG -> Predicted OR,"These glasses don't stay on my head, they don't fit my head, and I don't have a pair of sunglasses to replace them. "
+Books_5,5.0,CG,OR,Actual CG -> Predicted OR,Gary Taubes takes information that is not available to the public and uses it to further the agenda of the Republican Party.  The book is both entertaining and informative.  It is very interesting to see what is happening in the political process.  There are many people who are waiting for the next book to come out.  I hope that the next
+Movies_and_TV_5,5.0,CG,OR,Actual CG -> Predicted OR,Very funny movie! It's totally worth watching!I saw this movie a few years ago and was blown away.
+Clothing_Shoes_and_Jewelry_5,4.0,CG,OR,Actual CG -> Predicted OR,Absolutely adorable! I can't wait to wear them with my other Toms.
+Movies_and_TV_5,4.0,CG,OR,Actual CG -> Predicted OR,Typical 50's Sci-Fi for fans of the 80's and 90's.
+Electronics_5,5.0,CG,OR,Actual CG -> Predicted OR,"I'm not giving a big endorsement to the seller, just saying it's my opinion."
+Toys_and_Games_5,2.0,CG,OR,Actual CG -> Predicted OR,"Very poor quality! I wasn't expecting it to be as sturdy as it is, but I was disappointed. I bought this for my son for Christmas and he absolutely loves it."
+Electronics_5,4.0,CG,OR,Actual CG -> Predicted OR,"Good Memory card! But prices are a little lower than other brands. Also, the graphics card has"
+Kindle_Store_5,5.0,CG,OR,Actual CG -> Predicted OR,"Series: Stories of Serendipity #7
+Category: Romance
+Author: Rebecca T. Gentry
+Genre: Romance
+Author: Rebecca T. Gentry
+Series: Stories of Serendipity #8
+Category: Romance
+Author: Rebecca T. Gentry
+Genre: Romance
+Author: Rebecca T. Gentry
+Series: Stories of Serendipity #9
+Category: Romance
+Author: Rebecca T. Gentry
+Series: Stories of Serendipity #10
+Category: Romance
+Author: Rebecca T. Gentry
+Series: Stories of Serendipity #11
+Category: Romance
+Author: Rebecca T. Gentry
+Series: Stories of Serendipity #12
+Category: Romance
+Author: Rebecca T. Gentry
+Series: Stories of Serendipity #13
+ Category: Romance
+Author: Rebecca T. Gentry
+Series: Stories of Serendipity #14
+ Category: Romance
+Author: Rebecca T. Gentry
+Series: Stories of Serendipity #15
+ Category: Romance
+Author: Rebecca T. Gentry
+Series: Stories of Serendipity #16
+ Category: Romance
+Author: Rebecca T. Gentry
+Series: Stories of Serendipity #17
+ Category: Romance
+Author: Rebecca T. Gentry
+Series: Stories of Sere"
+Movies_and_TV_5,5.0,OR,CG,Actual OR -> Predicted CG,"Love the Jesse Stone movies and the star, Tom Selleck. He is a fantastic actor and makes the story real."
+Toys_and_Games_5,5.0,OR,CG,Actual OR -> Predicted CG,"I bought this for my sons 15th birthday. He loves it and has a lot of fun. It flies VERY high for a toy and the camera is awesome. You download the app and use as the control screen. Very easy to lose, its white."
+Clothing_Shoes_and_Jewelry_5,5.0,OR,CG,Actual OR -> Predicted CG,Love these. The perfect fit for my 2.5 year old daughter who didn't want to take them off.
+Sports_and_Outdoors_5,5.0,CG,OR,Actual CG -> Predicted OR,"nornally you buy at water cooler stores and you get these for free. The only downside is that you have to open the lid before you get the water to pour out. This is a bit annoying when you open the lid, but once you do it is still fun. I bought 2 bottles of this to keep in my car. I didn't think they would last long, but I had to use them for 2 weeks. I received this product at a discount in exchange for my honest and unbiased review."
+Home_and_Kitchen_5,5.0,CG,OR,Actual CG -> Predicted OR,Love this pan. Purchased this pan because I needed something that would keep my cheese hot and stayed hot longer.
+Movies_and_TV_5,4.0,CG,OR,Actual CG -> Predicted OR,i watched it cause i saw it and i cant wait for it to come out on dvd.
+Kindle_Store_5,5.0,OR,CG,Actual OR -> Predicted CG,"I will admit that Miss Oak is new to me so it took me a while to get in the groove of her writing, but once I did.....wow can't wait to get the next one. PS....I absouletley LOVED Rachel"
+Sports_and_Outdoors_5,5.0,CG,OR,Actual CG -> Predicted OR,Sturdy and colorful. Arrived quickly. We will be using it in the field.
+Books_5,5.0,OR,CG,Actual OR -> Predicted CG,"A great read, lots of twists and turns, Can't wait to read more from this author"
+Kindle_Store_5,5.0,OR,CG,Actual OR -> Predicted CG,Wow loved the book. It has you choosing between two loves. Finding who you were and who you are and who you want to be. A very good book you need to read it!
+Home_and_Kitchen_5,1.0,CG,OR,Actual CG -> Predicted OR,"Still haven't figured out how to do it yet, but I will update this if I get one."
+Sports_and_Outdoors_5,4.0,OR,CG,Actual OR -> Predicted CG,"Straps are made for very large person,had to set to smallest size which was a pain."
+Pet_Supplies_5,1.0,CG,OR,Actual CG -> Predicted OR,this product is a product that has been proven to work for our puppy! He loves this and we
+Movies_and_TV_5,5.0,OR,CG,Actual OR -> Predicted CG,"excellent quality,  Michael is always great  Love the bonus disk  6 rare treasures"
+Sports_and_Outdoors_5,4.0,OR,CG,Actual OR -> Predicted CG,Can't beat them for the money.  I have them mounted on a 10/22 with an Archangel stock and they seem to work great.
+Kindle_Store_5,5.0,CG,OR,Actual CG -> Predicted OR,"Great, sweet Christmas novella!!  I love the characters and the story line.  I would recommend this to anyone who loves a good read, a good storyline, and a good story line"
+Electronics_5,1.0,CG,OR,Actual CG -> Predicted OR,"This remote doesn't use codes, it uses the standard instructions.
+
+If you have a one-touch remote, the computer will run out of power if you use the same keyboard as the remote.
+
+If you have a 3-touch remote, it will run out of power if you use the same keyboard as the remote.
+
+If you have a 4-touch remote,"
+Books_5,5.0,CG,OR,Actual CG -> Predicted OR,"Thanks..
+
+Realistic... Enjoyed the story and the characters.  Great fun read."
+Sports_and_Outdoors_5,5.0,CG,OR,Actual CG -> Predicted OR,Good reminder guide of different types of mounts.  These are all pretty simple to use and the extra
+Tools_and_Home_Improvement_5,5.0,OR,CG,Actual OR -> Predicted CG,"American Standard's Everclean toilet seat is a nicely designed product.  Installation is very easy, the hardest part being the removal of the old seat, and the only tools needed are a screwdriver and plyers. It is made of light weight plastic, not covered pressed wood, with fully enclosed hinges so it should last a long time.  This will make cleaning a lot easier especially the area between the seat and the tank.  Well worth getting to replace the old worn out seat or just to spruce up the bathroom."
+Books_5,4.0,OR,CG,Actual OR -> Predicted CG,I enjoyed reading this book.  The historical events were very interesting.  I had no idea that Mary Todd Lincoln was pretty much penniless when President Abraham Lincoln was assassinated and she had to leave the White House.  I would recommend reading this book if one is interested in the Civil War era or the presidency of Abraham Lincoln
+Toys_and_Games_5,5.0,OR,CG,Actual OR -> Predicted CG,"I bought this for my son's third birthday because he had just recently started watching the Rescue Bots show.  He LOVES this toy! He take it to daycare every day. I love that it's a simple toy that doesn't require lots of pieces to keep up with. It really is easy to transform back and forth. He's able to this without my help. It's also the perfect size for him---big enough to have fun with but also small enough for his little hands! He plays with this so much, I think I will be buying the other rescue bots as well!"
+Tools_and_Home_Improvement_5,5.0,OR,CG,Actual OR -> Predicted CG,"1st class sander, and the case is a very nice touch.  I would definitely recommend it as a finish sander."
+Toys_and_Games_5,5.0,OR,CG,Actual OR -> Predicted CG,My baby is 9 months old and LOVES this toy. She loves opening the lid and pulling the toys out. They are the perfect size to fit in her hands.
+Home_and_Kitchen_5,5.0,OR,CG,Actual OR -> Predicted CG,"Love the color. Love that it is lightweight.
+The bowls are much larger than expected."
+Home_and_Kitchen_5,4.0,OR,CG,Actual OR -> Predicted CG,A little pricey for what it is.
+Sports_and_Outdoors_5,5.0,OR,CG,Actual OR -> Predicted CG,"This thing is the coolest!! It's perfect for my little hands, doesn't have a complicated lock to close, and exactly what I was looking for. I've been wanting a small versatile knife. It exceeded my expectations,  and it will be used daily.
+
+I received a discount in return for my honest review."
+Kindle_Store_5,5.0,OR,CG,Actual OR -> Predicted CG,This book just keeps getting better and better. The characters are perfect and the story is very erotic and interesting. You are left wet and wanting.  You will definitely have to read more.
+Clothing_Shoes_and_Jewelry_5,5.0,OR,CG,Actual OR -> Predicted CG,"My feet are wide, and these fit perfect, not tight!  They are also comfortable to wear most of the day!"
+Toys_and_Games_5,5.0,OR,CG,Actual OR -> Predicted CG,He's plays with her all the time she loves her
+Toys_and_Games_5,1.0,OR,CG,Actual OR -> Predicted CG,"Have bought many Nerf guns for my kids, and this has the poorest performance."
+Books_5,4.0,OR,CG,Actual OR -> Predicted CG,I won this book in the author's contest. I enjoyed reading it very much. The characters were so life-like. I will be looking for more of Annie West's books.
+Clothing_Shoes_and_Jewelry_5,1.0,OR,CG,Actual OR -> Predicted CG,bought this for my wife and she was surprised to see how small it was.  Had to return it.
+Clothing_Shoes_and_Jewelry_5,4.0,OR,CG,Actual OR -> Predicted CG,I gave this 4 not 5 stars just because it is a bit rough looking. It is beautiful and I would have given in 4.5 stars if I could. It is beautiful and I get tons of compliments but it is a bit (cant find the word.......) It is a nice quality nice design but looks handmade. Not sure if that is the word because it does not look cheap but I hope you get my point.
+Books_5,5.0,OR,CG,Actual OR -> Predicted CG,An amazing book by an amazing warrior. I have the utmost respect for our Navy SEAL teams. Proud to be an American...I will never forget these men and the fight they fought...
+Movies_and_TV_5,5.0,OR,CG,Actual OR -> Predicted CG,"This is one of the funniest and most quotable movies of all-time. John Goodman is the best he's ever been and Jeff Bridges has a career-defining role as ""The Dude"". If you have a pulse, you need to see this. WAY too many classic scenes to ignore this masterpiece."
+Pet_Supplies_5,4.0,OR,CG,Actual OR -> Predicted CG,"Should give this a 5 but they are a ""little"" thin and will tear.. Overall I'm happy with them and use 3-4 a day with my Pug puppy and will reorder the same product.. Let's make it 4.5...."
+Movies_and_TV_5,5.0,OR,CG,Actual OR -> Predicted CG,I have to say that this was a very powerful movie that tells the truth of how addiction can take the life and talent of a young man and turn it upside down. A must see.
+Home_and_Kitchen_5,4.0,OR,CG,Actual OR -> Predicted CG,This little guy works pretty well!  I've had it for around two years now and it has held up to daily use in my house.  I'd definitely recommend it.  This can opener has held up better than any of the models I've owned in the past.
+Sports_and_Outdoors_5,5.0,CG,OR,Actual CG -> Predicted OR,"This skull cap did what it was designed to do. It did not make my head itch, but it did not make my skin look like it was chapped."
+Clothing_Shoes_and_Jewelry_5,5.0,CG,OR,Actual CG -> Predicted OR,Love love this shirt....and received many compliments.  It is thick enough to cover my belly button
+Sports_and_Outdoors_5,5.0,OR,CG,Actual OR -> Predicted CG,"This is a great holster.  Comfortable, durable, and well made.  It works great for my G43."
+Kindle_Store_5,4.0,OR,CG,Actual OR -> Predicted CG,the love that won out is the story and how people in small towns can be judgemental.the women in this story have to overcome these types of people
+Electronics_5,5.0,OR,CG,Actual OR -> Predicted CG,"I first bought a knock off, but it stopped working after a few weeks. The Apple one is still working."
+Movies_and_TV_5,5.0,CG,OR,Actual CG -> Predicted OR,"Excellent movie. I remembered seeing this movie when it first came out in theaters, and I was blown"
+Toys_and_Games_5,5.0,CG,OR,Actual CG -> Predicted OR,Didn't want to give just one of the pieces to my daughter but I did give it as a gift. 
+Kindle_Store_5,3.0,CG,OR,Actual CG -> Predicted OR,"It started off good...lots of steamy scenes with lots of sex scenes.  The characters were awesome.  There was a lot of sexual tension and then the sex was so intense it made you want to punch her.  I'm not going to give it away, but it was definitely a great read.  I love the way it was written.  It was a little rough in places but"
+Electronics_5,5.0,CG,OR,Actual CG -> Predicted OR,Works great. Contacted Time-Warner Cable and they said they'd send me a replacement for my old router. I wasn't too happy about the new router and decided to go ahead and purchase it. The quality of this router is amazing. I can connect multiple devices at once and still get good signal with no issues. I have also tried multiple routers in the same area and these are the ones I use most. I recommend these routers to anyone who is considering purchasing one of these. I am very pleased with this router. I'm going to buy a second one for my
+Clothing_Shoes_and_Jewelry_5,5.0,CG,OR,Actual CG -> Predicted OR,Very cute handbag. i ha ere wearing it for a few days now.
+Kindle_Store_5,5.0,CG,OR,Actual CG -> Predicted OR,sad to see these end.  Shes hoping to find out how her sister is doing and how her father
+Sports_and_Outdoors_5,5.0,CG,OR,Actual CG -> Predicted OR,"Its a great scale,but accuracy is an issue.  Not sure how accurate this is, but"
+Books_5,5.0,OR,CG,Actual OR -> Predicted CG,"Although the context of this story was hard to handle, yet I couldn't wait to get back to reading the next day. The author made you see and feel the character in the book. I would recommend this book to anyone who wants to read a great book."
+Tools_and_Home_Improvement_5,5.0,CG,OR,Actual CG -> Predicted OR,"Got all wood floors????? Well, it's a very inexpensive item.  If you have a wood"
+Tools_and_Home_Improvement_5,5.0,CG,OR,Actual CG -> Predicted OR,Love it. I wish I had bought it years ago. works great.
+Books_5,5.0,CG,OR,Actual CG -> Predicted OR,Read to your sons and daughters. Buy the book. You won't regret it.
+Sports_and_Outdoors_5,3.0,OR,CG,Actual OR -> Predicted CG,"it's good, not as bouncyas i would like it to be, but not bad for the $$"
+Movies_and_TV_5,5.0,CG,OR,Actual CG -> Predicted OR,Arrived on time and perfect condition. The shipping was quick and the product arrived in perfect shape.Great show! Great price!
+Movies_and_TV_5,5.0,OR,CG,Actual OR -> Predicted CG,DVD is great movie to watch and will love it
+Books_5,4.0,CG,OR,Actual CG -> Predicted OR,Good pace - not predictable. I liked the writing style - it kept my interest.
+Books_5,5.0,CG,OR,Actual CG -> Predicted OR,"Tour Guide to Nursing School"" by T. J. Smith. This book is a great resource for those interested in the nursing profession."
+Pet_Supplies_5,5.0,CG,OR,Actual CG -> Predicted OR,I have had parrots for years and I bought the Golden Retriever for my 40 pound one
+Electronics_5,5.0,OR,CG,Actual OR -> Predicted CG,The sound quality from these small ear bud are really terrific and high quality. you can hear the bass and the highs very crisp and clean. I will definitely recommend them.
+Kindle_Store_5,2.0,OR,CG,Actual OR -> Predicted CG,Little more than a short story but interesting just the same.
+Pet_Supplies_5,5.0,OR,CG,Actual OR -> Predicted CG,"My Aussie loves crates, and especially this one. It is well made, large, and easy to clean. He has the best room in the house!"
+Sports_and_Outdoors_5,4.0,OR,CG,Actual OR -> Predicted CG,Used it for the first time yesterday and it worked great.
+Books_5,5.0,CG,OR,Actual CG -> Predicted OR,"Suspenseful.  When you thought that an entire book could be summed up by one single word, you"
+Kindle_Store_5,5.0,OR,CG,Actual OR -> Predicted CG,"I received this book as an ARC for an honest review. Here goes, this book was everything, I love how this author doesn't tell the same story with different names. I am not going to lie, there was a story line, that I didn't see coming, but made perfect sense. I can't wait for the next one!!!!!"
+Books_5,5.0,OR,CG,Actual OR -> Predicted CG,Got this for my daughters schooling and we also have the movie and they are both great items to have.
+Movies_and_TV_5,5.0,OR,CG,Actual OR -> Predicted CG,This is a cassic and it is so funny.  I find that Amazon has a great choice in movies Wide selectin.
+Electronics_5,5.0,OR,CG,Actual OR -> Predicted CG,This is a very nice little case and I love the owls!
+Electronics_5,4.0,CG,OR,Actual CG -> Predicted OR,"I used the product last week and it works very well.
+
+If you have a larger head (like me), this will be a good investment.
+
+This is a great earbud.  It will be your perfect size for listening to music on your phone or tablet.  I used it with a portable player and"
+Home_and_Kitchen_5,5.0,OR,CG,Actual OR -> Predicted CG,"These are very easy to use, easy to clean, and being able to freeze and microwave is a great boon"
+Toys_and_Games_5,4.0,OR,CG,Actual OR -> Predicted CG,"Is a fun toy that keeps my 4 year old busy. My only complaint is that the voice is VERY annoying and a bit too loud.
+
+**2 years later I have to ad that many times I have had to hide this thing due to how annoying the voice is. It's either hide it or chuck it out through window. I have been tempted. The kids love the darn thing though."
+Books_5,5.0,CG,OR,Actual CG -> Predicted OR,THIS WAS MY FAVORITE BOOK FOR MY BROTHER'S BOOKS.
+Movies_and_TV_5,3.0,OR,CG,Actual OR -> Predicted CG,It's ok. I get it's a classic but still it's just an ok movie.
+Home_and_Kitchen_5,5.0,OR,CG,Actual OR -> Predicted CG,This is one of the best things I have ever bought
+Clothing_Shoes_and_Jewelry_5,5.0,CG,OR,Actual CG -> Predicted OR,Great quality -- I cut it in half with a thin layer of clingy fabric.
+Toys_and_Games_5,4.0,CG,OR,Actual CG -> Predicted OR,Keeps him occupied. I thought this would be a good addition to our growing collection.
+Tools_and_Home_Improvement_5,5.0,CG,OR,Actual CG -> Predicted OR,Love this thin knife. Holds a charge well. It is sharp enough to cut through a large
+Books_5,2.0,OR,CG,Actual OR -> Predicted CG,"I have been an avid  fan of Clive Cussler from the very beginning.
+Is this book to be taken as an adventure etc....LOL. It feels more like reading for a young adolescent"
+Books_5,4.0,CG,OR,Actual CG -> Predicted OR,Was a bit of a cliffhanger with the ending but it was a satisfying read.  I highly recommend this series.I liked this book but the writing was so weak it made me want to
+Kindle_Store_5,5.0,OR,CG,Actual OR -> Predicted CG,I enjoyed the setting and the characters. The twist with the magical jukebox gave it an interesting vibe. A well written love story.
+Pet_Supplies_5,4.0,OR,CG,Actual OR -> Predicted CG,Puppy loves this donkey. She's a bit aggressive with it. I've had to stitch part of the neck back up. The sound box works great. No sign of her being able to remove it. I would buy this again if he meets his demise since he's her favorite.
+Books_5,5.0,OR,CG,Actual OR -> Predicted CG,"Top class.
+And still has 3/4 chapters to write of a great career.
+
+Honest to the bone.brave brave professional."
+Clothing_Shoes_and_Jewelry_5,5.0,OR,CG,Actual OR -> Predicted CG,"Tuve la oportunidad de adquirir dos tiaras de este estilo, para un reinado de chiquitas en el colegio de mi hija. Son realmente bien elaboradas, delicadas y muy bien empacadas. Indudablemente las volvera a comprar."
+Electronics_5,5.0,CG,OR,Actual CG -> Predicted OR,Worked in Debian Linux out of the box.  I've now installed it on a Mac and
+Home_and_Kitchen_5,5.0,CG,OR,Actual CG -> Predicted OR,Worked like a charm making it an easy to use and efficient way to make cheese.
+Kindle_Store_5,4.0,CG,OR,Actual CG -> Predicted OR,"Grace DeLeo hadnt had good luck with the job she was doing. She had just been fired from her job and had had to leave for a new position.
+
+She was in a bad place. A little over 60% in debt. Her car was broken down and she had no money. She had no idea what to do with her life. She had to start over and take care of her family. She had to do it by herself.
+
+But when she got her job she thought she would be able to do it. But when she saw she was not just a person. She was a person. She was a mother, a sister, a husband, a wife, a mother-in-law, a wife-in-law, a grandmother and a mother-in-law's son.
+
+Mina has a good heart. She has a past and she was very hard to forgive. She had a lot of secrets. She had a lot of secrets. She had a past that had been against her for a long time. She had to make it through the whole ordeal.
+
+Her ex-boyfriend was very scary and she was scared for her life. She was in a lot of pain. She had to decide if she could trust him again. She had to make the right choice.
+
+After a year of living with her ex, she finally got her ex"
+Clothing_Shoes_and_Jewelry_5,5.0,OR,CG,Actual OR -> Predicted CG,Love these and will continue to order them  =)
+Pet_Supplies_5,5.0,OR,CG,Actual OR -> Predicted CG,"My dog just loved this toy, he had a great time with it so much that I had to take it off of him times that I was on the phone.  I have an American Staffordshire Terrier and he seems to get a kick out of toys that make noise.  This toy actually lasted a few weeks.  If you have a heavy chewer then no toy is going to last very long.  I even have a basket full of toys for him and he goes for this toy everytime.  You cant go wrong with all the squeakers, he gets one out and then goes for the next.  Great toy and kept my Pitty busy."
+Electronics_5,5.0,CG,OR,Actual CG -> Predicted OR,"they work well, they certainly do not disappoint.  The included USB cable is a must have for anyone"
+Pet_Supplies_5,5.0,CG,OR,Actual CG -> Predicted OR,Great Product & great company.My dog loves these. He will chew them up in seconds and we
+Kindle_Store_5,4.0,OR,CG,Actual OR -> Predicted CG,"Story of the old west, while the main characters are gunslingers, the main character is a young girl set on revenge.  Easy enjoyable read, if you like westerns. ."
+Home_and_Kitchen_5,5.0,CG,OR,Actual CG -> Predicted OR,I purchased these to compliment my new Teflon stovetop.  These work well and look great.
+Books_5,2.0,CG,OR,Actual CG -> Predicted OR,"Not agreeing with other books, I kept hoping to find out how it would end."
+Kindle_Store_5,5.0,CG,OR,Actual CG -> Predicted OR,I loved this book.  I love the characters and how they all come together in the end.  I hope we find out more about both Finn and Carrie.  I was very happy that it
+Movies_and_TV_5,5.0,CG,OR,Actual CG -> Predicted OR,"U WONT BE DISAPOINTED, BLUERAY, NO MORE!!WONDERFUL MOVIE, I RECOMMEND YOU BORING IT, AS A FILM, NO WAY CAN I NOT"
+Electronics_5,5.0,CG,OR,Actual CG -> Predicted OR,"amazing motherboard
+Running 7600k intel and 1360k i7
+
+I love this"
+Electronics_5,5.0,OR,CG,Actual OR -> Predicted CG,"This monitor is gigantic, and a pretty good value.  I have really enjoyed using it, enough that I am thinking of buying one and carrying it to work.  I don't know if it really is better on the eyes, but it's beautiful."
+Electronics_5,5.0,CG,OR,Actual CG -> Predicted OR,"Good product but old Latitude doesn't work with my router. If you have a router with a 6. 5"" or 8. 5"" TV you can't go wrong with this product."
+Clothing_Shoes_and_Jewelry_5,5.0,CG,OR,Actual CG -> Predicted OR,Maxine of Hollywood always has a good balance of height and weight.  These pants are a great buy.  I had to get
+Sports_and_Outdoors_5,5.0,CG,OR,Actual CG -> Predicted OR,Beautifully detailed and large enough for an adult sized person. I will be purchasing a couple more for my other pair
+Books_5,5.0,CG,OR,Actual CG -> Predicted OR,The cruelty of slavery from the early part of the 19th century to the end of the 20th century. This is the most comprehensive and clear account of the consequences of slavery and its aftermath.
+Kindle_Store_5,4.0,OR,CG,Actual OR -> Predicted CG,"I liked the story, so romantic, I disliked that is not much realistic, but I had a good time."
+Clothing_Shoes_and_Jewelry_5,4.0,CG,OR,Actual CG -> Predicted OR,"Before I bought these boots, I thought I was going to be a cowboy, but I was wrong. These are not cowboy boots. They are a cross between a cross-dresser and a slouchy little girl. The boots are comfortable and are warm. I like the shape of the boots. I will be wearing them for a while."
+Movies_and_TV_5,1.0,CG,OR,Actual CG -> Predicted OR,The DVD skips sections so that it doesn't look like the opening credits of the movie. 
+Sports_and_Outdoors_5,5.0,OR,CG,Actual OR -> Predicted CG,"Great inexpensive multi-tool set, with a variety of hexagonal tools, including a large 8mm version. There are also Shimano and Mavic wrenches included. The chain breaker is also a nice addition not found on many all-in-one bike tools. The EyezOff is built with good quality for a $15 multi-tool, and each tool deploys and retracts back into the case easily. This is a very versatile bike tool at a great price."
+Toys_and_Games_5,5.0,OR,CG,Actual OR -> Predicted CG,This is another great little lego toy that keeps the kids happy for a small price the likes. that I will keep buying.
+Kindle_Store_5,5.0,CG,OR,Actual CG -> Predicted OR,This book was HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT HOT
+Sports_and_Outdoors_5,5.0,OR,CG,Actual OR -> Predicted CG,Great for the price.  Not for cold weather though.
+Home_and_Kitchen_5,5.0,CG,OR,Actual CG -> Predicted OR,Great Seller. Item just like it.Great quality and just what I needed for my kitchen! 
+Kindle_Store_5,5.0,CG,OR,Actual CG -> Predicted OR,enjoyed reading Lazy Love especially since it was free and I was able to read it in
+Kindle_Store_5,5.0,OR,CG,Actual OR -> Predicted CG,"I really enjoyed this book. It is written in the ""gumshoe"" detective"" style. It is easy to see the characters as the story unfolds. The book also makes sense from a ""common sense"" and ""human nature"" perspective."
+Books_5,5.0,OR,CG,Actual OR -> Predicted CG,love it and I will continue to use it as a reference book for my profession
+Toys_and_Games_5,4.0,CG,OR,Actual CG -> Predicted OR,"Even though 2 year- old doesn't really play with these toys, they are a must have for"
+Toys_and_Games_5,4.0,OR,CG,Actual OR -> Predicted CG,We love this. This is the best costume we have ever bought.
+Books_5,5.0,OR,CG,Actual OR -> Predicted CG,"I liked this book a lot, and want to read it again.  It's impossible not to be emotional reading this story.  Powerful and well written.  I will recommend it to my book club and others."
+Home_and_Kitchen_5,5.0,CG,OR,Actual CG -> Predicted OR,unpacked and used as soon as it arrived.  I was a little surprised how well this one
+Kindle_Store_5,4.0,CG,OR,Actual CG -> Predicted OR,"Very good read, it grabs your attention and you feel you're in the story."
+Movies_and_TV_5,5.0,CG,OR,Actual CG -> Predicted OR,"It catches you off guard, it shows you the truth of it all, and the lengths you can go to avoid"
+Tools_and_Home_Improvement_5,4.0,CG,OR,Actual CG -> Predicted OR,Item arrived as scheduled. The instructions say you can only use one of these for each level. 
+Pet_Supplies_5,5.0,CG,OR,Actual CG -> Predicted OR,Ordered these instead of buying a larger size.  The two large ones fit my 40 pound dog.
+Home_and_Kitchen_5,5.0,CG,OR,Actual CG -> Predicted OR,My favorite glasses bought after reading this review.  I've tried a lot of different glasses and this is
+Movies_and_TV_5,5.0,OR,CG,Actual OR -> Predicted CG,excellent movie nice color and the sound track is great you will just love this movie in blueray thats the only way to watch a very good movie is in blueray.
+Movies_and_TV_5,5.0,CG,OR,Actual CG -> Predicted OR,Something surprising (shocking?) in every way. The movie is a good one.
+Clothing_Shoes_and_Jewelry_5,4.0,CG,OR,Actual CG -> Predicted OR,Great shoes BUT they do run a little small.  I normally wear a size 10 and ordered a
+Clothing_Shoes_and_Jewelry_5,5.0,OR,CG,Actual OR -> Predicted CG,I received several compliments on these pants. They look and feel great. I would love to see them hold up for a few years.
+Home_and_Kitchen_5,5.0,OR,CG,Actual OR -> Predicted CG,"I love this pillow. I can make it as ""plump"" as I please. It's very cuddly too."
+Pet_Supplies_5,5.0,OR,CG,Actual OR -> Predicted CG,"works great--I recommended this to my daughter, and she also has purchased one"
+Books_5,5.0,OR,CG,Actual OR -> Predicted CG,"It's been a long time since a book made me cry, and the first time it made me cry both in horror and in joy. It's not an easy read, but like many books that make you work a bit, it's rewarding and I think you will never forget it. Read it if you dare."
+Clothing_Shoes_and_Jewelry_5,5.0,OR,CG,Actual OR -> Predicted CG,I am very happy with my Michael Korda shoulder bag.
+Toys_and_Games_5,3.0,CG,OR,Actual CG -> Predicted OR,they tend to inflate not only when you push the handle but also when you move the handle.
+Electronics_5,5.0,OR,CG,Actual OR -> Predicted CG,"Great product! great looks for my Mac! Loved it! very easy to install
+Just hope to last long enough!"
+Toys_and_Games_5,5.0,OR,CG,Actual OR -> Predicted CG,This puppet is so cute! My son loves it and plays with it a lot. This size is as pictured and it fits small toddler hands. My hands fit too but barely and I have small hands as well. This is a great buy if you are looking for a hand puppet for your child. I received this at a discount for my honest review.
+Books_5,5.0,CG,OR,Actual CG -> Predicted OR,Disturbingly creepy in every way!  I couldn't put it down.  I just wanted to go
+Movies_and_TV_5,3.0,CG,OR,Actual CG -> Predicted OR,I'M BLESSED WITH A GOOD TENDER!!  I'M GONNA RITZ.  I'M BLESSED WITH A GOOD TENDER!!  I'M BLESSED WITH A GOOD TENDER!!  I
+Toys_and_Games_5,5.0,CG,OR,Actual CG -> Predicted OR,Lightning fast shipping. Excellent customer service. Item was packaged well.
+Kindle_Store_5,4.0,OR,CG,Actual OR -> Predicted CG,I really liked the story. I was not fond of the ending. I would recommend it.  It's short sweet and enough to keep me interested.
+Home_and_Kitchen_5,5.0,OR,CG,Actual OR -> Predicted CG,My wife is studying South American Shamanism and she is very happy with this item.
+Clothing_Shoes_and_Jewelry_5,5.0,OR,CG,Actual OR -> Predicted CG,"Not too bulky, not too thin. Holds maybe 3 suits. Great price.  I ordered more."
+Tools_and_Home_Improvement_5,5.0,CG,OR,Actual CG -> Predicted OR,Worth every penny. Hug your goo and let's hope this one works for you!Very
+Clothing_Shoes_and_Jewelry_5,5.0,OR,CG,Actual OR -> Predicted CG,"I will be using them to play softball.  I know that the are trail and hiking shoes but with the comfort and tread, they are a good softball shoe."
+Electronics_5,5.0,CG,OR,Actual CG -> Predicted OR,Cheetah Mounts reached out to me and I was very pleased with the product.
+Pet_Supplies_5,3.0,CG,OR,Actual CG -> Predicted OR,"Seems to be helping some of my cats with their teeth.  Also, my cats are pretty"
+Books_5,3.0,CG,OR,Actual CG -> Predicted OR,"It was cute, enjoyable and a real fun read.  I will definitely read more about this author"
+Clothing_Shoes_and_Jewelry_5,5.0,OR,CG,Actual OR -> Predicted CG,"really love this the material is really nice and strong worth the buy
+
+wish it had pink"
+Clothing_Shoes_and_Jewelry_5,4.0,OR,CG,Actual OR -> Predicted CG,This shoes are a great value and the only reason I don't give them 5 stars is because in the picture you cannot the exact color of the leather.
+Clothing_Shoes_and_Jewelry_5,5.0,CG,OR,Actual CG -> Predicted OR,My wife loves this.  We have had several compliments.  The zipper is just right and the front is
+Movies_and_TV_5,4.0,CG,OR,Actual CG -> Predicted OR,"Not your usual Kennedy documentary. Instead, the movie is shot in a close-up angle and the camera moves along the film. There is no blood or gore. In fact, it's a little jarring to see a fetus on a stretcher with blood dripping from his mouth."
+Movies_and_TV_5,5.0,OR,CG,Actual OR -> Predicted CG,Very good movie.  To think of the possibility that are world could be like in this movie.  I thought the movie was well written and had many good actors in it.
+Kindle_Store_5,5.0,CG,OR,Actual CG -> Predicted OR,Another amazing series by an amazing author and an amazing author. I really enjoyed this book. It was a very enjoyable read.
+Movies_and_TV_5,5.0,CG,OR,Actual CG -> Predicted OR,"Perfect casting for this uniquely crafted movie, with a sense of history and imagination that makes this one of the most heart"
+Sports_and_Outdoors_5,5.0,OR,CG,Actual OR -> Predicted CG,"This bottle was a great buy, dishwasher safe and is very easy to clean. The wide opening make the water bottle easy to fill and drink from."
+Pet_Supplies_5,3.0,CG,OR,Actual CG -> Predicted OR,"These clippers clip well, but the ones I bought were a bit thin.
+
+The Clipper is a very sturdy clipper."
+Pet_Supplies_5,3.0,CG,OR,Actual CG -> Predicted OR,They snag easley. Zipper helps to keep the food in the dish.Nice harness for my
+Tools_and_Home_Improvement_5,5.0,CG,OR,Actual CG -> Predicted OR,haven't used yet but seems to be working fine. Very good quality.
+Movies_and_TV_5,5.0,CG,OR,Actual CG -> Predicted OR,"Personally I had never heard of this movie before, and I didn't understand it at first, but I found it very entertaining. The script and acting were very good. The acting was very good. I would highly recommend this film to anyone who likes action films. It was good for the money. I liked it the most. I'll never watch it again. I love this series. It has all the shows I love and they all have great chemistry. I love the characters and the show is very interesting. I have watched it several times and it always keeps me up at night."
+Clothing_Shoes_and_Jewelry_5,5.0,OR,CG,Actual OR -> Predicted CG,"i love the sanuk brand shoes, they are the best!!!"
+Kindle_Store_5,5.0,OR,CG,Actual OR -> Predicted CG,"I was a little surprised by some of the negative comments.  While I was not expecting what happened, I can't say that is a bad thing.  It was not as tightly written as the first story, but it covers a lot more area and involves more people.
+Again, the characters are well defined.  The science fiction combat is terrific.  It will be interesting to see what they do to combat the new menace.
+One of the best science fiction starship combat books written in a long time."
+Sports_and_Outdoors_5,1.0,CG,OR,Actual CG -> Predicted OR,"Not worth the money. I use it as a swimming pool towel.  When I got home,"
+Electronics_5,5.0,OR,CG,Actual OR -> Predicted CG,I had my doubts about this but it work out. I left this unit out on my desk and two other people wanted to take it.
+Electronics_5,5.0,CG,OR,Actual CG -> Predicted OR,"outstanding speaker. a little more bass, but overall sound is good."
+Clothing_Shoes_and_Jewelry_5,5.0,CG,OR,Actual CG -> Predicted OR,"Best nursing bra ever! After reading reviews, I ordered a size up. This bra is a bit"
+Clothing_Shoes_and_Jewelry_5,3.0,OR,CG,Actual OR -> Predicted CG,"My son wears size 18 month clothing, and size 5.5 shoe and we bought the 2T-3T.  They fit good, but are pretty tight on the ankle.  They are also a lot thinner than I was expecting, so not super great for winter."
+Electronics_5,4.0,OR,CG,Actual OR -> Predicted CG,It does what it is supposed to do. I am a little concerned in the packaging of the product as it appeared to have been opened. There were the included cables still in plastic so I am not sure if this was box was just opened or it was a used product repackaged. The only other issue is that the polarized plugs really were difficult to plug in. I had to use the blade of a screwdriver to get them all the way flush into the surge protector on the standard size outlet side. No issues on the large outlets for the power adapters.
+Sports_and_Outdoors_5,5.0,OR,CG,Actual OR -> Predicted CG,We LOVE this stove!! This took things to the next level. It is very easy to use and cooks pretty evenly.  This made camping so much more comfortable.
+Movies_and_TV_5,2.0,OR,CG,Actual OR -> Predicted CG,"Not a very good copy, not a very good movie"
+Pet_Supplies_5,5.0,OR,CG,Actual OR -> Predicted CG,"Smells amazing!  My dog loves these treats and they are the perfect size for training, and for small dogs."
+Pet_Supplies_5,4.0,OR,CG,Actual OR -> Predicted CG,"One of my dogs liked it, the other did not!  Seemed the best was the chicken & alternated with the beef!"
+Books_5,5.0,OR,CG,Actual OR -> Predicted CG,I enjoyed receiving this book in the mail. It came in good shape and will be a nice addition to my collection.
+Toys_and_Games_5,5.0,OR,CG,Actual OR -> Predicted CG,This is a very challenging puzzle but I love it.  It is beautiful and has kept us busy for a week.
+Pet_Supplies_5,5.0,OR,CG,Actual OR -> Predicted CG,"Great quality, clear writing. Ordered one for my 2 dogs and cat."
+Home_and_Kitchen_5,5.0,CG,OR,Actual CG -> Predicted OR,"Love,love,Love! Great color. Used for a gift and the recipient loved it. Very well made and fits the bill perfectly."
+Clothing_Shoes_and_Jewelry_5,1.0,OR,CG,Actual OR -> Predicted CG,too small and see through I gave them to goodwill
+Pet_Supplies_5,5.0,CG,OR,Actual CG -> Predicted OR,Perfect size for my Maltese.  She is a very playful puppy and I love that she can
+Kindle_Store_5,5.0,OR,CG,Actual OR -> Predicted CG,"Love Song by Susan Scott Shelley....I could not put this book down, I felt like I was on a roller coaster with twists and turns not knowing what would happen next. This was such an entertaining story, I can't wait for the next. Susan Scott Shelley is a new author to me and I am so excited I found her. If you have not read her or this book, you will want to. I was given a complimentary book for an honest review."
+Books_5,1.0,CG,OR,Actual CG -> Predicted OR,Most orders DO NOT come in an envelope.  We are sorry.  Thank you.  Can't read it.  I will not re-order any of the items in this book.I had no idea that this book
+Pet_Supplies_5,5.0,OR,CG,Actual OR -> Predicted CG,My 8 pound Rat Terrier Loves these. They are made of had plastic so they will last for quite a while.
+Kindle_Store_5,4.0,CG,OR,Actual CG -> Predicted OR,This book was good. Even though it was a long book I did not feel like I was missing out.
+Tools_and_Home_Improvement_5,5.0,CG,OR,Actual CG -> Predicted OR,So nice that we don't have to go through the hassle of buying a new opener.
+Sports_and_Outdoors_5,5.0,CG,OR,Actual CG -> Predicted OR,Everything you need to take into consideration when you purchase these is how they fit in the bag.
+Books_5,5.0,CG,OR,Actual CG -> Predicted OR,"""The Shambling Guide To New York City"" by John Grisham.
+
+The Shambling Guide To New York City is the most comprehensive and comprehensive book ever written on the subject of urban planning. It covers the most comprehensive and comprehensive of urban planning principles and is the foundation of the"
+Toys_and_Games_5,5.0,CG,OR,Actual CG -> Predicted OR,"Math games. get em, use this. We love this game."
+Kindle_Store_5,3.0,CG,OR,Actual CG -> Predicted OR,"As with most Kindle book's, it's an interesting and intriguing read."
+Pet_Supplies_5,5.0,OR,CG,Actual OR -> Predicted CG,"Price. Sturdy. I'm pleased I bought two, although I'm certain the one in use is going to last a long time. Highly recommend."
+Books_5,3.0,CG,OR,Actual CG -> Predicted OR,"Mediocre. Held my interest, but not a great story. Very good book."
+Clothing_Shoes_and_Jewelry_5,4.0,CG,OR,Actual CG -> Predicted OR,the card holder broke off and the card holder was in the ground.  The card holder has broken
+Pet_Supplies_5,5.0,OR,CG,Actual OR -> Predicted CG,I mix this with the regular Higgins Vita Seed Parrot food. My African Grey loves it!
+Kindle_Store_5,5.0,CG,OR,Actual CG -> Predicted OR,Tea!!y enjoyed this novel and look forward to the next in the series.
+Books_5,5.0,CG,OR,Actual CG -> Predicted OR,"As always, Karen Kingsbury delivered a sweet, sweet, funny, and heartwarming story about a"
+Home_and_Kitchen_5,5.0,OR,CG,Actual OR -> Predicted CG,This product is sturdy and has a nice design.  Will last and last.
+Home_and_Kitchen_5,5.0,CG,OR,Actual CG -> Predicted OR,Beautiful shower curtain. Just what I wanted. Looks good in my bathroom.
+Sports_and_Outdoors_5,5.0,CG,OR,Actual CG -> Predicted OR,Awesome!  Use it when hiking or camping.  Easy to use and make a difference!  Works as advertised
+Home_and_Kitchen_5,4.0,OR,CG,Actual OR -> Predicted CG,"This is a nice little lamp, but the color in the picture is not accurate; it is not purple, it is fuschia."
+Kindle_Store_5,5.0,OR,CG,Actual OR -> Predicted CG,I love me some Bree but I'm going to need her to get a backbone....Love is so hard to let of but......
+Kindle_Store_5,2.0,CG,OR,Actual CG -> Predicted OR,"Several times throughout this story, I kept wondering if there was a connection between the characters.  I wasn't sure if it would be a good thing or if it would take away from the story.  It certainly did.  I was excited for the next book to come out.  I was looking forward"
+Kindle_Store_5,5.0,OR,CG,Actual OR -> Predicted CG,I love the story.  I was waiting for a very dramatic ending. Like a matter of life ending but the one that was presented was also nice and funny.
+Tools_and_Home_Improvement_5,5.0,CG,OR,Actual CG -> Predicted OR,"The lights were amazing!!! But, I couldn't find a good description on how to install them."
+Electronics_5,5.0,CG,OR,Actual CG -> Predicted OR,"Much better performance than the old ones, with the exception of a minor bump in the bass response."
+Pet_Supplies_5,5.0,OR,CG,Actual OR -> Predicted CG,It's not huge. But it fits my really large cats perfect. I like this product and highly recommend it. I've had mine for two years and I wash the filters and have yet to change them out.
+Books_5,5.0,OR,CG,Actual OR -> Predicted CG,I can't wait to read about the Womens Murder Club. The 15th was great and I am waiting for the next one
+Clothing_Shoes_and_Jewelry_5,5.0,OR,CG,Actual OR -> Predicted CG,This bracelet is so pretty.  I really like it.  The only thing I would consider a problem is the bracelet snags clothing.
+Books_5,5.0,OR,CG,Actual OR -> Predicted CG,"This book was recommended by a very good friend.  I started reading and was a little hesitant because this is not a book that I usually read.  It took a little to get into it, but I did I could not put it down.  This is an EXCELLENT book and will be recommending this to a lot of people.  My review of this book is WOW.  One word could sum it up."
+Books_5,4.0,CG,OR,Actual CG -> Predicted OR,"Several centuries from now humanity will have the ability to communicate with its own kind, the Clans.
+
+The Clans are a powerful and powerful group of individuals. They have made a pact with the Humans and will be using their powers to conquer the Clans. Humans are not the only ones to be controlled by the Clans. Humans have made a pact with the Clans. They will be used to control the Clans and they will be able to use their powers to control the Clans.
+
+The Clans will use the power of magic to control the Clans and will be able to control the Clans. The Clans will use the power of magic to control the Clans and will be able to control the Clans.
+
+The Clans will use the power of magic to control the Clans and will be able to control the Clans. The Clans will use the power of magic to control the Clans and will be able to control the Clans.
+
+The Clans will use the power of magic to control the Clans and will be able to control the Clans. The Clans will use the power of magic to control the Clans and will be able to control the Clans.
+
+The Clans will use the power of magic to control the Clans and will be able to control the Clans. The Clans will use the power of magic to control the Clans"
+Clothing_Shoes_and_Jewelry_5,5.0,CG,OR,Actual CG -> Predicted OR,Nice  elegant  watch               
+Tools_and_Home_Improvement_5,4.0,CG,OR,Actual CG -> Predicted OR,"Your average masking tape, nothing else will work. Not worth it."
+Clothing_Shoes_and_Jewelry_5,5.0,CG,OR,Actual CG -> Predicted OR,My children loves them. He looks forward to wearing them. Love it.
+Electronics_5,5.0,CG,OR,Actual CG -> Predicted OR,"Couldn't be happier.
+
+Works seamlessly with my Macbook Pro.Very good quality."
+Clothing_Shoes_and_Jewelry_5,5.0,CG,OR,Actual CG -> Predicted OR,Lovely style but poor fit. Not an everyday item. Very good quality.
+Tools_and_Home_Improvement_5,5.0,OR,CG,Actual OR -> Predicted CG,For the money I don't think you can beat this light. Very bright. Long battery life.
+Clothing_Shoes_and_Jewelry_5,4.0,CG,OR,Actual CG -> Predicted OR,New Balance no longer goes under my arms.  Not good.  These have a nice look.
+Movies_and_TV_5,5.0,CG,OR,Actual CG -> Predicted OR,Fantastic TV show with high quality picture and sound. I will watch this again.
+Movies_and_TV_5,5.0,OR,CG,Actual OR -> Predicted CG,My wife can watch this any time of the year now
+Electronics_5,5.0,CG,OR,Actual CG -> Predicted OR,"I have a 2006 dodgeball & professional golf ball and I have a 2007 Dodge Challenger and a 2015 Dodge Challenger.  The Dodge Challenger has a rear-view mirror and a front-view mirror.  The Dodge Challenger has a rear-view mirror.  The Dodge Challenger has a rear-view mirror.
+
+I did not test the rear-view mirror on the Dodge Challenger.  I did test the rear-view mirror on the Dodge Challenger.  I tested the rear-view mirror on the Dodge Challenger.  I tested the rear-view mirror on the Dodge Challenger.  I tested the rear-view mirror on"
+Clothing_Shoes_and_Jewelry_5,5.0,OR,CG,Actual OR -> Predicted CG,"My son loves this vest!  Fits great, comfortable, not too bulky."
+Sports_and_Outdoors_5,4.0,CG,OR,Actual CG -> Predicted OR,This item was a gift--hence the name--to my son for Christmas.
+Home_and_Kitchen_5,5.0,CG,OR,Actual CG -> Predicted OR,"The cutest clock ever.  We have the clock on our RV and it is beautiful!  We use it all the time and it is easy to set the time, so it is a nice addition to our RV.  The size is perfect for our guests"
+Pet_Supplies_5,5.0,OR,CG,Actual OR -> Predicted CG,Have used this product for years.  My cat loves the taste.  Best treat he ever had. We really love it.
+Movies_and_TV_5,4.0,CG,OR,Actual CG -> Predicted OR,"Very good story line.
+Completes the book.
+I highly recommend this series.
+"
+Clothing_Shoes_and_Jewelry_5,2.0,CG,OR,Actual CG -> Predicted OR,Absolutely see through. Must use a 9. 5 inch shoe for a lot of work. Very pretty.
+Toys_and_Games_5,5.0,CG,OR,Actual CG -> Predicted OR,"So nobody looses an eye, and it's an impressive addition to our collection!We got this"
+Kindle_Store_5,4.0,OR,CG,Actual OR -> Predicted CG,Beautiful story.  Makes me want continue with the next book!
+Books_5,5.0,OR,CG,Actual OR -> Predicted CG,"I found this book to be very readable and informative.  I originally thought the book wouldn't be an interesting read, I was wrong.  The writing style kept me on the edge of my chair!"
+Books_5,4.0,CG,OR,Actual CG -> Predicted OR,"Like most Stuart Woods books, this one is an interesting and engrossing read. I was particularly interested"
+Movies_and_TV_5,2.0,CG,OR,Actual CG -> Predicted OR,Too much whining! Too much time wasted and too many unnecessary scenes.  This is a waste of
+Pet_Supplies_5,1.0,CG,OR,Actual CG -> Predicted OR,"Wast of money, didn't hang on to the leash, and I didn't need it."
+Pet_Supplies_5,5.0,OR,CG,Actual OR -> Predicted CG,Good size my 8-10 lb dogs love the size. Excellent.
+Kindle_Store_5,5.0,CG,OR,Actual CG -> Predicted OR,Oh my Gosh!  Theres a whole bunch of twists and turns that make you think!  Can
+Books_5,5.0,OR,CG,Actual OR -> Predicted CG,I had bought this for a class and fell in love with the book! It is a great tale of life love and sacrifice in order to save the only world these young people had ever known.
+Home_and_Kitchen_5,1.0,CG,OR,Actual CG -> Predicted OR,These are so flimsy! They are not the quality you would expect from a piece of furniture.
+Tools_and_Home_Improvement_5,2.0,CG,OR,Actual CG -> Predicted OR,Update - 06/13/2016. Physical internal battery has been replaced and no issues. This is a great product.
+Electronics_5,3.0,OR,CG,Actual OR -> Predicted CG,"There's a hum that disappears when I turn on my itouch, but it is annoying when I turn it on. But the price was right for the little I use it."
+Sports_and_Outdoors_5,4.0,OR,CG,Actual OR -> Predicted CG,Great value and I have had no issues or complaints with this product.
+Clothing_Shoes_and_Jewelry_5,5.0,CG,OR,Actual CG -> Predicted OR,Super cute.  It is a little short for my liking but it fits my son well. 
+Toys_and_Games_5,5.0,OR,CG,Actual OR -> Predicted CG,"I bought this for my daughter for Easter and she still loves it! It's just the right size and it's really cute and easy for her to grab on to, she's 6 months old now."
+Electronics_5,3.0,OR,CG,Actual OR -> Predicted CG,"For $3.00 I got this to have a extra case, the shipping was GREAT. If u are looking for a real leather case this is not it but it will protect your tablet"
+Books_5,4.0,CG,OR,Actual CG -> Predicted OR,Good read. Enjoyable characters. Kept me turning pages. Great plot.
+Books_5,4.0,CG,OR,Actual CG -> Predicted OR,"Only half way through the book, I thought, ""Whoa! There's a whole lot going on here. "
+Kindle_Store_5,4.0,OR,CG,Actual OR -> Predicted CG,"This had a lot of good tips  and basic information on how to survive,
+was a good little book that I enjoyed very much"
+Sports_and_Outdoors_5,4.0,CG,OR,Actual CG -> Predicted OR,You really gotta push that button. The only way you can push it is if the button is broken
+Toys_and_Games_5,5.0,CG,OR,Actual CG -> Predicted OR,"Putting together animal family sets, this is an impressive addition to our collection of interactive toys."
+Books_5,5.0,CG,OR,Actual CG -> Predicted OR,Invaluable way to assist those who have lost their faith in God. This book is a powerful reminder that we must not forget the power of prayer and the importance of faith. This book is a powerful reminder that we need to be honest about our faith and our journey.
+Clothing_Shoes_and_Jewelry_5,5.0,OR,CG,Actual OR -> Predicted CG,"Lightweight, well tailored. Nice Fabric. Have been a fan of the shorts for a few years. I immediately ordered another pair!"
+Kindle_Store_5,5.0,OR,CG,Actual OR -> Predicted CG,"I loved the idea and the execution of it.
+
+Very entertaining and nice. And we get an extra Fitzwilliam brother, there are never enough of them. "
+Books_5,5.0,OR,CG,Actual OR -> Predicted CG,"I've used this book for years, and I swear by it!  I just purchased it for a friend and her mother."
+Movies_and_TV_5,5.0,OR,CG,Actual OR -> Predicted CG,"This movie precedes ""Lord of the Rings"" movies...we really liked it. I think you would like it if you liked Lord of the Rings"
+Toys_and_Games_5,1.0,CG,OR,Actual CG -> Predicted OR,"the toy introduces similar learning and educational tools.  The two most common questions for students are ""What is a horse?"" and ""What is a horse's head?""  The responses are easy to follow and the questions are clear enough to allow students to learn with ease.  The toy also offers a number of different musical instruments and sounds.  There is a book for each of the instruments and a set of pictures to follow along with the answer.  The piano is very easy to learn and is easy to practice.  The songs are fun, but not so exciting that students are bored.  The songs are short, but do not fall into the ""sweet spot"" of the musical instrument.  The questions are easy to follow and the questions are clear enough to allow students to learn with ease.  The toy also offers a number of"
+Home_and_Kitchen_5,1.0,CG,OR,Actual CG -> Predicted OR,"Terrible, complete waste of money. Not a whole lot to say."
+Sports_and_Outdoors_5,1.0,OR,CG,Actual OR -> Predicted CG,The air pump is use less. You can barely get 20psi in a tire. And it doesn't fit in the bag. The bag is difficult to strap under the seat. The multi-tool is the only good thing about the kit. Wasted my money.
+Tools_and_Home_Improvement_5,5.0,CG,OR,Actual CG -> Predicted OR,"Nice accessory for my new kitchen sink, as well as for a handy little light."
+Books_5,3.0,OR,CG,Actual OR -> Predicted CG,This book was a quick and easy read.  Great to take to the beach!
+Pet_Supplies_5,5.0,OR,CG,Actual OR -> Predicted CG,Came as described and fast shipping. My dog absolutely loves this toy and it has  lasted for a long time
+Movies_and_TV_5,5.0,OR,CG,Actual OR -> Predicted CG,"First off, I am a big fan of both Oliver Platt and Liam Neeson. I loved this movie lots of action and best of all you care about the characters. The surrounding cast is also terrific especially the therapy group. You'll see."
+Books_5,1.0,CG,OR,Actual CG -> Predicted OR,I have previously enjoyed many of the books by John Grisham.  He is a master at keeping readers interested.  I look forward to his next book
+Toys_and_Games_5,5.0,CG,OR,Actual CG -> Predicted OR,Our 4 yr twin boys (age 3 and 5) loved it.  They got excited when we
+Kindle_Store_5,5.0,OR,CG,Actual OR -> Predicted CG,"this book was a very good read. I had never read anything by Ms. Sawyer but I will again, would love to read the next in this series"
+Toys_and_Games_5,5.0,CG,OR,Actual CG -> Predicted OR,When this arrive on same day it arrived on the same day it arrived on the same day it arrived on the same day it arrived on the same day it arrived on the same day it arrived on the same day it arrived on the same day it arrived on the same day it arrived on the same day it arrived on the same day it arrived on the same day it arrived on the same day it arrived on the same day it arrived on the same day it arrived on the same day it arrived on the same day it arrived on the same day it arrived on the same day it arrived on the same day it arrived on the same day it arrived on the same day it arrived on the same day it arrived on the same day it arrived on the same day it arrived on the same day it
+Pet_Supplies_5,4.0,OR,CG,Actual OR -> Predicted CG,It's a nice size cage for a few finches.  It's easy to assemble.  I like it very much.
+Movies_and_TV_5,5.0,CG,OR,Actual CG -> Predicted OR,"This is the story of a boy and his family. He is growing up in the 1950s. His father was a jail guard, his mother was a school teacher. They were all straight. They had everything. They were in a good relationship. This boy is still in the same place. They are both very close to each other. They have a great bond. He has great social skills. He has a good life. He is on a good path. He is not afraid to do his best. He is not afraid to be alone. He is not afraid to be alone. He has a good life. He is not afraid to be alone"
+Movies_and_TV_5,5.0,OR,CG,Actual OR -> Predicted CG,I love the story I love the action I love the Captain America cameo very good movie 5 out of 5
+Pet_Supplies_5,5.0,OR,CG,Actual OR -> Predicted CG,Very good for the price. Size is nice and it folds well!!
+Books_5,4.0,CG,OR,Actual CG -> Predicted OR,"On August 15, 1971, Richard Nixon signed the memorandum authorizing the entry of U.S. troops into the war. The memorandum was signed by both the president and Vice President. The memorandum was signed by President Richard Nixon and Vice President Gerald Ford. The memorandum was signed by President John F. Kennedy and Vice President Richard Nixon. The memorandum was signed by President Richard Nixon and Vice President Gerald Ford. The memorandum was signed by President Richard Nixon and Vice President Richard Nixon. The memorandum was signed by President Richard Nixon and Vice President Gerald Ford. The memorandum was signed by President Richard Nixon and Vice President Gerald Ford. The memorandum was signed by President Richard Nixon and Vice President Gerald Ford. The memorandum was signed by President Richard Nixon and Vice President Gerald Ford. The memorandum was signed by President Richard Nixon and Vice President Gerald Ford. The memorandum was signed by President Richard Nixon and Vice President Gerald Ford. The memorandum was signed by President Richard Nixon and Vice President Gerald Ford. The memorandum was signed by President Richard Nixon and Vice President Gerald Ford. The memorandum was signed by President Richard Nixon and Vice President Gerald Ford. The memorandum was signed by President Richard Nixon and Vice President Gerald Ford. The memorandum was signed by President Richard Nixon and Vice President Gerald Ford. The memorandum was signed by President Richard Nixon and Vice President"
+Toys_and_Games_5,5.0,OR,CG,Actual OR -> Predicted CG,"I was pretty shocked at how expensive these seats are but I'm very happy with them. My son is comfortable, they're very sturdy, it doesn't get hot in the sun and I especially like the plastic coating on the chains. This swing will last forever. It's definitely worth the money!"
+Clothing_Shoes_and_Jewelry_5,5.0,OR,CG,Actual OR -> Predicted CG,"the quality is great, the color is awesome and the fit is perfect!"
+Kindle_Store_5,5.0,CG,OR,Actual CG -> Predicted OR,Kennedy was obsessed with Chopra and his family. His father was a cowboy who had a strong interest in Chopra. Chopra's grandfather was a social worker who worked in a local newspaper. Chopra had no idea that Chopra was a hockey player. Chopra was shocked when Chopra's father found out about Chopra's birth.
+Books_5,5.0,CG,OR,Actual CG -> Predicted OR,Great authors. Holds kids attention and keeps them turning pages. I will keep reading them.
+Pet_Supplies_5,5.0,OR,CG,Actual OR -> Predicted CG,"It's a great toy, the dogs love it.  I love the tail that moves independently from the goose.  Really, really love it."
+Movies_and_TV_5,5.0,OR,CG,Actual OR -> Predicted CG,Great movie! A little slow paced but good all the same
+Sports_and_Outdoors_5,1.0,CG,OR,Actual CG -> Predicted OR,"Size of product is 2.75"" (2.5 cm) thick.  This is the size you would expect from a polyester bag, but it is the exact size you would expect from a regular mesh bag.  It is a perfect size for my size 7-11.
+
+I received this product at a"
+Tools_and_Home_Improvement_5,5.0,OR,CG,Actual OR -> Predicted CG,I love these Lutron dimmers.  I have them all over the house.
+Tools_and_Home_Improvement_5,4.0,OR,CG,Actual OR -> Predicted CG,"Light when I need it, or when an unexpected visitor comes, but I didn't turn on the light by the door."
+Electronics_5,5.0,OR,CG,Actual OR -> Predicted CG,I use one of the u3 hv boards as the cornerstone of my Home automation system. http://www. instructables.
+Electronics_5,5.0,CG,OR,Actual CG -> Predicted OR,"Thing is great, haven't used it yet, but it is good enough."
+Home_and_Kitchen_5,4.0,CG,OR,Actual CG -> Predicted OR,Looks good. Affordable price. Easy to assemble and easy to clean. Clean up is pretty quick. Great price. Bought 2 and they work perfectly. This is a great fan.
+Tools_and_Home_Improvement_5,1.0,OR,CG,Actual OR -> Predicted CG,NOT MADE IN THE U.S.A  AS THE DESCRIPTION SAYS
+Home_and_Kitchen_5,5.0,CG,OR,Actual CG -> Predicted OR,"When my children celebrate their Halloween holidays, they are using this to decorate their rooms.  It is so cute and the design is"
+Pet_Supplies_5,5.0,CG,OR,Actual CG -> Predicted OR,"Incredibly professional looking laminated cards.  I have bought many other brands of laminated cards,"
+Kindle_Store_5,5.0,CG,OR,Actual CG -> Predicted OR,Aways the best! Homes and homes of the characters and families of the book are just as entertaining and interesting as the
+Home_and_Kitchen_5,5.0,OR,CG,Actual OR -> Predicted CG,Very happy with the quality of the merchandise and the speedy delivery.
+Movies_and_TV_5,5.0,OR,CG,Actual OR -> Predicted CG,"I was very pleased with the quality of the video and sound, great concert, the Piano Guys are the best !!!"
+Movies_and_TV_5,5.0,OR,CG,Actual OR -> Predicted CG,Them is an old movie. I like watching James whitmore
+Movies_and_TV_5,4.0,CG,OR,Actual CG -> Predicted OR,"Another great movie by Russell Crowe, with a twist of a plot that makes the viewer believe he"
+Kindle_Store_5,4.0,CG,OR,Actual CG -> Predicted OR,"When your past becomes your present, you are going to need to work through your past and find the other two."
+Electronics_5,3.0,CG,OR,Actual CG -> Predicted OR,The display could be better.  I don't know.  But I'm not sure what the
+Tools_and_Home_Improvement_5,5.0,CG,OR,Actual CG -> Predicted OR,Worked great. Exact fit to my hand and the finish is good.
+Books_5,5.0,CG,OR,Actual CG -> Predicted OR,"I love this book, I read it at least once a week.  I have read all the books in this series."
+Pet_Supplies_5,5.0,OR,CG,Actual OR -> Predicted CG,"Great price, great product. My vet says these are very good for my dogs hip problems."
+Pet_Supplies_5,5.0,OR,CG,Actual OR -> Predicted CG,"i mix it into a small amount of wet food, and it's spared me the dreaded vet visits.
+has been a huge success, for the cats.  saved me $$$$$$$$$$, and the
+stress of packing up the girls in a crate to go to that ""place"""
+Home_and_Kitchen_5,5.0,OR,CG,Actual OR -> Predicted CG,Powerful. I use it everyday. It's very industrial so it should work for years to come.
+Electronics_5,4.0,CG,OR,Actual CG -> Predicted OR,"It pounds a cheapo JVC, and the quality is just as good as my JVC."
+Electronics_5,5.0,CG,OR,Actual CG -> Predicted OR,"batteries shipped on time
+when they are delivered
+
+Wish I could find one for"
+Movies_and_TV_5,5.0,OR,CG,Actual OR -> Predicted CG,10 year old grandson loves this and he's learning history at the same time...and it's fun.
+Sports_and_Outdoors_5,5.0,OR,CG,Actual OR -> Predicted CG,Easy to use and the pressure gauge is great. What more do you need to know?
+Movies_and_TV_5,5.0,OR,CG,Actual OR -> Predicted CG,As it happens I have a friend who is going through this exact situation and her husband is a therapist and we know he is on the low - what a trip
+Clothing_Shoes_and_Jewelry_5,2.0,OR,CG,Actual OR -> Predicted CG,Poorly made. Not leg is not snug enough to stay in place.
+Home_and_Kitchen_5,5.0,CG,OR,Actual CG -> Predicted OR,It runs quiet and eliminated some of the noise we've heard in our bedroom. I'm not sure how
+Books_5,5.0,CG,OR,Actual CG -> Predicted OR,"1984 by George Orwell is a novel, with a distinctively dystopian plot that makes the reader feel as if they are the protagonists. The characters are complex, and the plots are very interesting.
+
+The novel is in many ways a reflection of the American political scene. Its almost eerie, and a bit depressing at times, and it is a great way to introduce a new generation of readers to the subject matter of dystopian literature. But the novel is also an interesting introduction to a new generation of readers to dystopian literature. The novel is a fun, quirky read, with plenty of twists and turns.
+
+In short, it is a fun, quirky read. It is a fun, quirky read. It is a fun, quirky read. It is a fun, quirky read. It is a fun, quirky read. It is a fun, quirky read. It is a fun, quirky read. It is a fun, quirky read. It is a fun, quirky read. It is a fun, quirky read. It is a fun, quirky read. It is a fun, quirky read. It is a fun, quirky read. It is a fun, quirky read. It is a fun, quirky read. It is a fun, quirky read. It is a fun, quirky read. It is a fun, quirky read. It is a fun, quirky read. It is a fun, quirky read. It is a fun, quirky read. It is a fun, quirky read. It is a fun, quirky read. It is a fun, quirky read. It is a fun, quirky read. It is a fun, quirky read. It is a fun, quirky read."
+Clothing_Shoes_and_Jewelry_5,5.0,CG,OR,Actual CG -> Predicted OR,"Perfect shorts, like the style, but the quality is just what I wanted."
+Kindle_Store_5,5.0,OR,CG,Actual OR -> Predicted CG,Definitely one of the best books I've read in awhile. Couldn't get enough of it!
+Kindle_Store_5,4.0,OR,CG,Actual OR -> Predicted CG,This is an interesting adventure about a team who goes to Russia to free an innocent child caught in the middle of a mafia and political mess.  Great story line.
+Sports_and_Outdoors_5,5.0,CG,OR,Actual CG -> Predicted OR,Sturdy and fits my license plate perfectly.  It is very comfortable and my thumb is strong enough to
+Pet_Supplies_5,5.0,OR,CG,Actual OR -> Predicted CG,"We use these to get the cat's poops out of the house ASAP.  Love these bags because not only do they  smell good, but they have a handle which makes it easy to scoop and throw away.  Also the box is good to sit next to the litter box, grab and go."
+Movies_and_TV_5,5.0,OR,CG,Actual OR -> Predicted CG,"Great compendium of Luciano, the best voice of the century."
+Home_and_Kitchen_5,4.0,OR,CG,Actual OR -> Predicted CG,"These are nice, but not as good as the York design. These will go in the guest bath.
+
+These are better: http://www.amazon.com/gp/product/B004KKXA6C/ref=oh_o00_s00_i00_details
+the handles are easier to grasp."
+Kindle_Store_5,5.0,OR,CG,Actual OR -> Predicted CG,"I bought and read all the books in this series, Love them all."
+Movies_and_TV_5,4.0,OR,CG,Actual OR -> Predicted CG,A lot better than expected. nice pace and full of action.
+Books_5,5.0,OR,CG,Actual OR -> Predicted CG,"stephen king has always written great books,Ihave to say i have never read a book by him that i was disappointed in"
+Electronics_5,5.0,OR,CG,Actual OR -> Predicted CG,I love the size and look of these things  I have several in different colors.  They are compact and easy to travel with.  I have had no technical issues.
+Clothing_Shoes_and_Jewelry_5,4.0,OR,CG,Actual OR -> Predicted CG,"I ordered a small, I'm 5'1. They're roomy pants and somewhat long. I have too roll up the bottoms so I don't step on them! However, the material is nice!"
+Kindle_Store_5,3.0,OR,CG,Actual OR -> Predicted CG,"This book is just silly fluff. An entertaining read, but I had to mock it as I was reading it. Props to the author for the creativity."
+Sports_and_Outdoors_5,5.0,CG,OR,Actual CG -> Predicted OR,"Great product, if your looking for a basic emergency kit you will need this one."
+Pet_Supplies_5,3.0,OR,CG,Actual OR -> Predicted CG,"I bought the small size, thinking it would be smaller and thinner than the image shown with the full grown dog.  I bought it for a friend's King Charles Spaniel but this collar is very wide and seems heavy. It is also difficult to adjust to make smaller around the neck.  I was going to return it but I gave it to a friend who had a large dog instead.  Because I gave it away I am not sure how good the USB charger is.  But the light seemed bright the first day I got it.  Only for large dogs."
+Electronics_5,5.0,OR,CG,Actual OR -> Predicted CG,I've been using these for a few weeks now and I have had no problems. The build quality is very good on these.
+Home_and_Kitchen_5,1.0,CG,OR,Actual CG -> Predicted OR,"The slots aren't big enough for me, so I just put it on my bed and it fits."
+Pet_Supplies_5,5.0,OR,CG,Actual OR -> Predicted CG,The six squeakers are great.  I think this toy will last a long time!
+Tools_and_Home_Improvement_5,5.0,OR,CG,Actual OR -> Predicted CG,Rips them a new one. Great blade for the price.
+Clothing_Shoes_and_Jewelry_5,5.0,CG,OR,Actual CG -> Predicted OR,Purchased these for my Grandson. He loves them. Very comfortable.
+Home_and_Kitchen_5,5.0,OR,CG,Actual OR -> Predicted CG,Easy instructions - love that they are right on the bar! I've ordered 2 now and they are simple and easy to use and look very nice.
+Home_and_Kitchen_5,5.0,CG,OR,Actual CG -> Predicted OR,It was as exactly decribed as it was shown on the picture.  The actual dimensions are just
+Clothing_Shoes_and_Jewelry_5,5.0,OR,CG,Actual OR -> Predicted CG,Great for the girls I'm 36d and bought a small
+Electronics_5,1.0,CG,OR,Actual CG -> Predicted OR,"Nice product, increases WiFi range.  Works well with my router.  Also, it's been a couple months since I"
+Tools_and_Home_Improvement_5,5.0,CG,OR,Actual CG -> Predicted OR,GREAT LIGHTS - VERY HAPPY AND VERY TAKENING - WELL WELL
+Kindle_Store_5,4.0,OR,CG,Actual OR -> Predicted CG,I liked the turn of events. It had theme thats been told before but there was just enough of a difference that it was a good read.
+Electronics_5,1.0,CG,OR,Actual CG -> Predicted OR,"It looks like Seagate Central, but the quality isn't good either.
+
+The only downside is that the case seems to be a"
+Kindle_Store_5,3.0,OR,CG,Actual OR -> Predicted CG,This is the third book in the series.  The writing is so so and there are lots of errors.  I kept purchasing the books because I like the story.
+Electronics_5,4.0,CG,OR,Actual CG -> Predicted OR,Be aware this clamp can be a little tricky to apply but it works for my needs.  It is so small that it can be used to hold
+Electronics_5,5.0,CG,OR,Actual CG -> Predicted OR,"4-6.5"" 360watt 3way in 98Durango, CA 96545-4-6.5"" 360watt 3way in 98Durango, CA 96545-4-6.5"" 360watt 3way in 98Durango, CA 96545-4-6.5"" 360watt 3way in 98Durango, CA 96545-4-6.5"" 360watt 3way in 98Durango,"
+Electronics_5,5.0,CG,OR,Actual CG -> Predicted OR,Purchased due to a recommendation from an older seller.  Product arrived as described.  I'm very pleased with the purchase.
+Sports_and_Outdoors_5,4.0,CG,OR,Actual CG -> Predicted OR,Sprays a nice tight stream of sweat and sweat off my face.  This is a great product.
+Home_and_Kitchen_5,5.0,CG,OR,Actual CG -> Predicted OR,"So cute, it almost looks like an actual tree, and I'm very happy with the size and the"
+Tools_and_Home_Improvement_5,5.0,CG,OR,Actual CG -> Predicted OR,Thy are great went up and down the hall and they are all nice and bright.
+Books_5,5.0,CG,OR,Actual CG -> Predicted OR,Was okay but not one of my favorite. Not one of my favorite.
+Sports_and_Outdoors_5,5.0,OR,CG,Actual OR -> Predicted CG,"One of the best knives I've ever owned.  Stupid sharp out of the box, and love the fact that it not only came with thigh rigging, but also an emergency belt extraction tool.  Both are on my go bag, strapped in my front seat!"
+Clothing_Shoes_and_Jewelry_5,5.0,CG,OR,Actual CG -> Predicted OR,My son loved the costume.  He wore it to a Halloween costume and it was a great costume.
+Kindle_Store_5,3.0,CG,OR,Actual CG -> Predicted OR,love this author. she never disappoints and she has a way of weaving her characters in a way
+Books_5,5.0,CG,OR,Actual CG -> Predicted OR,"Excellent
+This review requires that I go back and read the earlier reviews.  This review is based"
+Clothing_Shoes_and_Jewelry_5,4.0,OR,CG,Actual OR -> Predicted CG,My only complaint is that the straps were a bit long but very good quality; will buy this brand again.
+Sports_and_Outdoors_5,1.0,CG,OR,Actual CG -> Predicted OR,"Do yourself a big favor and buy the wide brim version of this hat!  I have one in my 6th-door house, and it is the perfect size to take with me on a family outing.  It is a perfect size for my daughters and me to wear in the sun and a hat"
+Sports_and_Outdoors_5,5.0,CG,OR,Actual CG -> Predicted OR,"I've fished with these little tubes for the last 10 years and they work great. I have one in my 6th-door house, and another in my 6th-door neighbors'"
+Movies_and_TV_5,3.0,CG,OR,Actual CG -> Predicted OR,"Farewell Friend aka Adieu L'Ami/Honourable Guest)
+
+""Two"" by Frank Sinatra
+
+""I'll Never Forget You"" by Guy Hamsik
+
+""Jude and the Tantrums"" by G. I. Joe
+
+""I'm Sorry"" by Ray Charles
+
+""The Man with the Golden Gun"" by John Lennon
+
+""The Man with the Cap"" by George Bush
+
+""Funny"" by M. Night Shyamalan
+
+""The Man in Black"" by E. T. ""My Own Little House"" by Shirley Temple
+
+""Goodbye"" by A. J. Dillard
+
+""The Man in Black"" by James Cameron
+
+""The Man in Black"" by Arthur C. Clarke
+
+""The Man in Black"" by Arthur C. Clarke
+
+""My Own Little House"" by Shirley Temple
+
+""I'm Sorry"" by M. Night Shyamalan
+
+""The Man in Black"" by E. T. ""The Man in Black"" by Arthur C. Clarke
+
+""The Man in Black"" by E. T. ""The Man in Black"" by M."
+Tools_and_Home_Improvement_5,5.0,OR,CG,Actual OR -> Predicted CG,Great product for the price.  Very bright and the changing colors are great.
+Movies_and_TV_5,5.0,CG,OR,Actual CG -> Predicted OR,Delivered fine. Packed well. Item arrived in perfect condition. Very good movie.
+Clothing_Shoes_and_Jewelry_5,5.0,CG,OR,Actual CG -> Predicted OR,Love it. Can easily be worn as a nightgown.
+Movies_and_TV_5,4.0,CG,OR,Actual CG -> Predicted OR,This DVD arrived yesterday from a local movie theater and was very happy with it. I was not expecting a release date but it arrived in perfect condition and the picture was excellent. I would recommend it to anyone who loves action movies. I was excited to see this movie. The acting was great. The story was well written and the story was believable.
+Books_5,5.0,OR,CG,Actual OR -> Predicted CG,"A fascinating journey through art and history.
+A book that I will go back to."
+Kindle_Store_5,4.0,CG,OR,Actual CG -> Predicted OR,Fun read! Reminded me to go back and read the other two books.
+Clothing_Shoes_and_Jewelry_5,5.0,CG,OR,Actual CG -> Predicted OR,Have6pair of gloria Vanderbilt. lost weight and broke in.
+Electronics_5,1.0,CG,OR,Actual CG -> Predicted OR,"nice keyboard except the fact that it doesn't have a USB port.
+
+The only downside is that it's very small.
+
+Pros:
+-Highly adjustable keyboard
+-The keys are responsive and precise
+-I use it for typing with my Nexus 7
+-It works well with both Android and iOS
+-Easy to use and easy to set up
+-Nice magnetic closure
+-Nicely shaped case
+-Nice sound
+-Can't beat the price
+
+Cons:
+-No USB port
+-I hate the default keys
+-Not"
+Electronics_5,2.0,CG,OR,Actual CG -> Predicted OR,"When I had Windows 7, it would not let me connect to my computer, and I would not use the external hard drive. I then had to get the cable to plug it in and connect it to my computer. I have a Windows 8.1 computer with an external hard drive that is plugged into a USB port on the motherboard, and the cable is on the motherboard. I plugged it in and it works fine. I can't tell you how many times I have to unplug it and plug it back in. I would have been happy"
+Toys_and_Games_5,5.0,CG,OR,Actual CG -> Predicted OR,"Great item, Great price, Wonderful customer service, Product arrived in time for Christmas!This is a"
+Clothing_Shoes_and_Jewelry_5,5.0,CG,OR,Actual CG -> Predicted OR,"I needed a comfy fleece, and I bought these in two different colors! They are warm"
+Clothing_Shoes_and_Jewelry_5,5.0,OR,CG,Actual OR -> Predicted CG,Fits great! Very comfortable.  Would be buying a few more pairs.
+Kindle_Store_5,5.0,CG,OR,Actual CG -> Predicted OR,Loved this read. It kept me turning the page and waiting for the next book. I can't wait for the next
+Kindle_Store_5,4.0,OR,CG,Actual OR -> Predicted CG,"Interesting book.  Lots of excitement, adventure, trust, courage, and attraction make this an good read.  It has a lot of what makes a good book."
+Pet_Supplies_5,5.0,CG,OR,Actual CG -> Predicted OR,After having used this dog food for the last two years I now have to give the dogs one every other day.  The dogs will eat it but the flavor is not great.
+Electronics_5,4.0,OR,CG,Actual OR -> Predicted CG,"and I keep ordering them for the price. They are one of the least expensive, and I have not had a problem while using them."
+Pet_Supplies_5,5.0,CG,OR,Actual CG -> Predicted OR,My Blood Parrots LOVE these!  They are the best part of the package!  I have
+Books_5,5.0,OR,CG,Actual OR -> Predicted CG,This is the best book. I loved it! We read it for book club and everyone in the group loved it!
+Home_and_Kitchen_5,5.0,OR,CG,Actual OR -> Predicted CG,I ordered this for my husband...he loves the set...especially the noodle strainer:)
+Movies_and_TV_5,5.0,CG,OR,Actual CG -> Predicted OR,"EX-cellent; truly excellent:  well-produced, well acted. Highly recommended. Thank you!Very good."
+Pet_Supplies_5,5.0,OR,CG,Actual OR -> Predicted CG,This is the wet food my cat has always liked and if it ain't broke don't fix it.
+Toys_and_Games_5,3.0,CG,OR,Actual CG -> Predicted OR,"narrow tips, I would have preferred a more wide-sided model.  This is a great"
